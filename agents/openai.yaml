@@ -1,0 +1,6 @@
+interface:
+  display_name: "BP"
+  short_description: "Améliorer vos prompts avec les principes OpenAI"
+  default_prompt: "Utilise $bp pour améliorer ce prompt en préservant mon intention et mes contraintes."
+policy:
+  allow_implicit_invocation: true
